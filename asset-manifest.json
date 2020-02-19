@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/material-ui-design-tests/static/css/main.d1b05096.chunk.css",
+    "main.js": "/material-ui-design-tests/static/js/main.4fa26cc0.chunk.js",
+    "main.js.map": "/material-ui-design-tests/static/js/main.4fa26cc0.chunk.js.map",
+    "runtime-main.js": "/material-ui-design-tests/static/js/runtime-main.c5d17622.js",
+    "runtime-main.js.map": "/material-ui-design-tests/static/js/runtime-main.c5d17622.js.map",
+    "static/js/2.f1ecfb74.chunk.js": "/material-ui-design-tests/static/js/2.f1ecfb74.chunk.js",
+    "static/js/2.f1ecfb74.chunk.js.map": "/material-ui-design-tests/static/js/2.f1ecfb74.chunk.js.map",
+    "index.html": "/material-ui-design-tests/index.html",
+    "precache-manifest.f9a1ddd747ab8f75d78921178a5adc66.js": "/material-ui-design-tests/precache-manifest.f9a1ddd747ab8f75d78921178a5adc66.js",
+    "service-worker.js": "/material-ui-design-tests/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/material-ui-design-tests/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f1ecfb74.chunk.js.LICENSE.txt": "/material-ui-design-tests/static/js/2.f1ecfb74.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/material-ui-design-tests/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d17622.js",
+    "static/js/2.f1ecfb74.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4fa26cc0.chunk.js"
+  ]
+}
