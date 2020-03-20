@@ -28,7 +28,7 @@ const styles = theme => ({
 });
 
 function App({ classes }) {
-    // Todo: base name will be "/" when not deploed on GH-Pages
+    // Todo: base name will be "/" when not deployed on GH-Pages
     return (
         <Router basename="/material-ui-design-tests">
             <AppBar position="static" className={classes.appbar}>
